@@ -1,0 +1,23 @@
+course_id,title,skill,level,prerequisite,duration_hours,resource_type,description
+1,Python Fundamentals,Python,Beginner,None,20,Course,Learn Python programming fundamentals
+2,Advanced Python,Python,Intermediate,Python,15,Course,Functions OOP modules and advanced Python
+3,NumPy Fundamentals,NumPy,Beginner,Python,10,Course,Learn numerical computing with NumPy
+4,Pandas Fundamentals,Pandas,Beginner,Python,12,Course,Learn data manipulation and analysis using Pandas
+5,Data Visualization,Data Visualization,Beginner,Pandas,10,Course,Learn Matplotlib and data visualization
+6,Statistics Fundamentals,Statistics,Beginner,Python,18,Course,Learn probability statistics distributions and hypothesis testing
+7,SQL Fundamentals,SQL,Beginner,None,15,Course,Learn SQL databases queries joins and aggregation
+8,Advanced SQL,SQL,Intermediate,SQL,15,Course,Learn advanced SQL queries and window functions
+9,Machine Learning Fundamentals,Machine Learning,Beginner,"Python,Statistics",25,Course,Understand machine learning algorithms and concepts
+10,Scikit Learn,Machine Learning,Intermediate,Machine Learning,15,Course,Implement machine learning models using Scikit Learn
+11,Feature Engineering,Machine Learning,Intermediate,"Pandas,Machine Learning",12,Course,Learn feature engineering and data preprocessing
+12,Model Evaluation,Machine Learning,Intermediate,Machine Learning,10,Course,Learn model evaluation and validation techniques
+13,Deep Learning Fundamentals,Deep Learning,Intermediate,Machine Learning,30,Course,Learn neural networks and deep learning fundamentals
+14,TensorFlow Fundamentals,Deep Learning,Intermediate,Deep Learning,20,Course,Build neural networks using TensorFlow
+15,CNN Fundamentals,Computer Vision,Advanced,Deep Learning,20,Course,Learn convolutional neural networks for image processing
+16,NLP Fundamentals,NLP,Intermediate,Machine Learning,20,Course,Learn natural language processing fundamentals
+17,Transformers,NLP,Advanced,NLP,25,Course,Learn transformer architectures and applications
+18,Generative AI,Generative AI,Advanced,"Deep Learning,NLP",25,Course,Learn fundamentals of generative AI
+19,Machine Learning Project,Machine Learning,Intermediate,"Scikit Learn,Model Evaluation",30,Project,Build an end to end machine learning project
+20,Deep Learning Project,Deep Learning,Advanced,"TensorFlow,CNN Fundamentals",35,Project,Build an end to end deep learning project
+21,NLP Project,NLP,Advanced,"NLP,Transformers",30,Project,Build a natural language processing project
+22,AI Capstone Project,Artificial Intelligence,Advanced,"Machine Learning,Deep Learning,NLP",50,Project,Build a complete AI application

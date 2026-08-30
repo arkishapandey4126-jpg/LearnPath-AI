@@ -1,0 +1,11 @@
+resource_id,skill,title,platform,type,url,free,level,description
+1,Python,Python Full Course,YouTube,Video,https://www.youtube.com/results?search_query=python+full+course,true,Beginner,Complete Python course for beginners
+2,Python,Python for Everybody,Coursera,Course,https://www.coursera.org/learn/python,true,Beginner,Learn Python programming fundamentals
+3,SQL,SQL Full Course,YouTube,Video,https://www.youtube.com/results?search_query=sql+full+course,true,Beginner,Learn SQL fundamentals
+4,Machine Learning,Machine Learning Full Course,YouTube,Video,https://www.youtube.com/results?search_query=machine+learning+full+course,true,Beginner,Learn machine learning fundamentals
+5,Machine Learning,Scikit Learn Documentation,Scikit-learn,Documentation,https://scikit-learn.org/stable/user_guide.html,true,Intermediate,Official Scikit-learn learning resources
+6,Deep Learning,Deep Learning Course,YouTube,Video,https://www.youtube.com/results?search_query=deep+learning+full+course,true,Intermediate,Learn deep learning fundamentals
+7,Deep Learning,Deep Learning Specialization,Coursera,Course,https://www.coursera.org/specializations/deep-learning,true,Intermediate,Deep learning concepts and applications
+8,NLP,NLP Course,YouTube,Video,https://www.youtube.com/results?search_query=natural+language+processing+full+course,true,Intermediate,Learn NLP fundamentals
+9,Generative AI,Generative AI Course,YouTube,Video,https://www.youtube.com/results?search_query=generative+ai+full+course,true,Advanced,Learn generative AI concepts
+10,Computer Vision,CNN Course,YouTube,Video,https://www.youtube.com/results?search_query=cnn+deep+learning+full+course,true,Advanced,Learn convolutional neural networks
